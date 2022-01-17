@@ -17,4 +17,4 @@
 
 ## 3주차
 
-* [9일차](https://github.com/SonYoonSeok/6weeks/blob/main/2%EC%A3%BC%EC%B0%A8/2022-01-17%209%EC%9D%BC%EC%B0%A8%20%F0%9F%93%86.md)
+* [9일차](https://github.com/SonYoonSeok/6weeks/blob/main/3%EC%A3%BC%EC%B0%A8/2022-01-17%209%EC%9D%BC%EC%B0%A8%20%F0%9F%93%86.md)
