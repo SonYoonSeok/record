@@ -13,3 +13,8 @@
 * [4일차](https://github.com/SonYoonSeok/6weeks/blob/main/2%EC%A3%BC%EC%B0%A8/2022-01-10%204%EC%9D%BC%EC%B0%A8%20%F0%9F%93%86.md)
 * [5일차](https://github.com/SonYoonSeok/6weeks/blob/main/2%EC%A3%BC%EC%B0%A8/2022-01-11%205%EC%9D%BC%EC%B0%A8%20%F0%9F%93%86.md)
 * [7일차](https://github.com/SonYoonSeok/6weeks/blob/main/2%EC%A3%BC%EC%B0%A8/2022-01-13%207%EC%9D%BC%EC%B0%A8%20%F0%9F%93%86.md)
+* [8일차](https://github.com/SonYoonSeok/6weeks/blob/main/2%EC%A3%BC%EC%B0%A8/2022-01-14%208%EC%9D%BC%EC%B0%A8%20%F0%9F%93%86.md)
+
+## 3주차
+
+* [9일차](https://github.com/SonYoonSeok/6weeks/blob/main/3%EC%A3%BC%EC%B0%A8/2022-01-17%209%EC%9D%BC%EC%B0%A8%20%F0%9F%93%86.md)
